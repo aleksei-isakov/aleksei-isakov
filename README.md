@@ -6,7 +6,7 @@ I am a junior front-end engineer always looking for self-development. Have solid
 - Succssfully finished EPAM training centre as a front-end developer<br/>
 - Prior to this, for a year and a half I was freelancing in HTML/CSS coding, and learned JavaScript<br/>
 - Have experience in building online-shops (authentication, cart, form validation, modal windows/snackbars/forms, axios requests and interceptors etc.)<br/>
-- I’m currently continue sharpen my skills in Vue.js and React. Angular is up next
+- I’m currently continuing to sharpen my skills in Vue.js and React. Angular is up next
 <hr/>
 
 <h3>I have experience with:</h3>
