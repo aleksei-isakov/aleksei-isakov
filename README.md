@@ -29,12 +29,12 @@ I am a junior front-end engineer always looking for self-development. Have solid
 
 </hr>
 <hr/>
-<h3>📫 How to reach me:</h3> <br/> <a href="https://t.me/feel_moonVibe" target="_blank"> <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" /> </a> <a href="mailto:second.to.none18@gmail.com" target="_blank"> <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/> </a>
+<h3>📫 How to reach me:</h3> <br/> <a href="https://t.me/sunlightVibe" target="_blank"> <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" /> </a> <a href="mailto:second.to.none18@gmail.com" target="_blank"> <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/> </a>
 <br/>
 <br/>
 <br/>
 PS. 
 Open-minded and striving for mastering new cool things <br/>
 Former ESL teacher with a bunch of international certificates:)<br/>
-Did you know that Chris Nolan makes best movies?
+
 
