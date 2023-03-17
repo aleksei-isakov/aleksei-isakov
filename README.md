@@ -1,19 +1,22 @@
 <h2>Hi there! </h2>
 <h3>I'm Alex </h3> <h4> Glad to see you here! </h4>
-I am a junior front-end engineer always looking for self-development. Have solid understanding of most of js basics.
+I am a front-end engineer always looking for self-development. Have solid understanding of JS, Vue js framework and collaterals.
 <hr>
   <h3>About me</h3> <br/>
 - Succssfully finished EPAM training centre as a front-end developer<br/>
 - Prior to this, for a year and a half I was freelancing in HTML/CSS coding, and learned JavaScript<br/>
 - Have experience in building online-shops (authentication, cart, form validation, modal windows/snackbars/forms, axios requests and interceptors etc.)<br/>
-- I’m currently continuing to sharpen my skills in Vue.js and React. Angular is up next
 <hr/>
 
 <h3>I have experience with:</h3>
 <br/>  
 *React (Router, Redux, functional approach)
 <br/>
-*Vue.js Ver. 2x (Vuex, Vuetify, Vue-router, Vue-material)
+*Vue.js Ver. 2x / 3x (Vuex, Vuetify, Vue-router, Vue-material, Pinia, composition API)
+<br/>
+* Webpack, Vite
+<br/>
+TypeScript
 <br/>
 *Jest unit testing
 <br/>
