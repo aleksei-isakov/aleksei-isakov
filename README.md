@@ -9,14 +9,14 @@ I am a front-end engineer always looking for self-development. Have solid unders
 <hr/>
 
 <h3>I have experience with:</h3>
-<br/>  
-*React (Router, Redux, functional approach)
-<br/>
 *Vue.js Ver. 2x / 3x (Vuex, composition API, Vuetify, Vue-router, Vue-material, Pinia, Tailwind)
 <br/>
 * Webpack, Vite
 <br/>
 *TypeScript
+<br/>
+<br/>  
+*React (Router, Redux, functional approach)
 <br/>
 *Jest unit testing
 <br/>
