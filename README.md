@@ -37,7 +37,7 @@ I am a front-end engineer always looking for self-development. Have solid unders
 <br/>
 <br/>
 PS. 
-Open-minded and striving for mastering new cool things <br/>
+Open-minded and striving to master new cool things <br/>
 Former ESL teacher with a bunch of international certificates:)<br/>
 
 
