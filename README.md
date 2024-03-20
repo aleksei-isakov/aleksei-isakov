@@ -14,7 +14,6 @@ I am a front-end engineer always looking for self-development. Have solid unders
 * Webpack, Vite
 <br/>
 *TypeScript
-<br/>
 <br/>  
 *React (Router, Redux, functional approach)
 <br/>
