@@ -12,11 +12,11 @@ I am a front-end engineer always looking for self-development. Have solid unders
 <br/>  
 *React (Router, Redux, functional approach)
 <br/>
-*Vue.js Ver. 2x / 3x (Vuex, Vuetify, Vue-router, Vue-material, Pinia, composition API)
+*Vue.js Ver. 2x / 3x (Vuex, composition API, Vuetify, Vue-router, Vue-material, Pinia, Tailwind)
 <br/>
 * Webpack, Vite
 <br/>
-TypeScript
+*TypeScript
 <br/>
 *Jest unit testing
 <br/>
